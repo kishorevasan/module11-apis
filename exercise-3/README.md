@@ -1,3 +1,4 @@
+<<<<<<< 937d810e2b378a6e057b5ff6be8fdee73a4b58ad
 #Practicing APIs
 **Be sure to FORK AND CLONE this repo!**
 
@@ -5,3 +6,6 @@ This is a practice to using APIs through the Pokemon API. The Pokemon API is a g
 
 Whether you grew up with Pokemon or are just learning about it, it's a great API and has even better documentation. 
 Learn more about the Poke API here: https://pokeapi.co/
+=======
+This is a practice to using APIs through the Pokemon API. 
+>>>>>>> Create README
